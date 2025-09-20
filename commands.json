@@ -14,6 +14,21 @@
     "task manager": "taskmgr"
   },
 
+  "close_apps": {
+    "notepad": "taskkill /f /im notepad.exe",
+    "calculator": "taskkill /f /im calculator.exe",
+    "word": "taskkill /f /im winword.exe",
+    "excel": "taskkill /f /im excel.exe",
+    "powerpoint": "taskkill /f /im powerpnt.exe",
+    "paint": "taskkill /f /im mspaint.exe",
+    "vlc": "taskkill /f /im vlc.exe",
+    "chrome": "taskkill /f /im chrome.exe",
+    "edge": "taskkill /f /im msedge.exe",
+    "file explorer": "taskkill /f /im explorer.exe",
+    "command prompt": "taskkill /f /im cmd.exe",
+    "task manager": "taskkill /f /im taskmgr.exe"
+  },
+
   "websites": {
     "google": "https://www.google.com",
     "youtube": "https://www.youtube.com",
