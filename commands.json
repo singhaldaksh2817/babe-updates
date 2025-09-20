@@ -1,0 +1,44 @@
+{
+  "apps": {
+    "notepad": "notepad",
+    "calculator": "calc",
+    "word": "start winword",
+    "excel": "start excel",
+    "powerpoint": "start powerpnt",
+    "paint": "mspaint",
+    "vlc": "start vlc",
+    "chrome": "start chrome",
+    "edge": "start msedge",
+    "file explorer": "explorer",
+    "command prompt": "cmd",
+    "task manager": "taskmgr"
+  },
+
+  "websites": {
+    "google": "https://www.google.com",
+    "youtube": "https://www.youtube.com",
+    "gmail": "https://mail.google.com",
+    "chatgpt": "https://chat.openai.com",
+    "github": "https://github.com",
+    "stackoverflow": "https://stackoverflow.com",
+    "linkedin": "https://www.linkedin.com",
+    "twitter": "https://twitter.com",
+    "instagram": "https://www.instagram.com",
+    "facebook": "https://www.facebook.com",
+    "reddit": "https://www.reddit.com",
+    "netflix": "https://www.netflix.com",
+    "amazon": "https://www.amazon.in",
+    "flipkart": "https://www.flipkart.com",
+    "spotify": "https://open.spotify.com",
+    "hotstar": "https://www.hotstar.com",
+    "quora": "https://www.quora.com"
+  },
+
+  "system": {
+    "shutdown": "shutdown /s /t 10",
+    "restart": "shutdown /r /t 5",
+    "logoff": "shutdown -l",
+    "sleep": "rundll32.exe powrprof.dll,SetSuspendState 0,1,0",
+    "lock": "rundll32.exe user32.dll,LockWorkStation"
+  }
+}
